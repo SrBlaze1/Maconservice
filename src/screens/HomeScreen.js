@@ -6,7 +6,7 @@ const empresasFicticias = [
   {
     id: '1',
     nome: 'EletroFix',
-    foto: 'https://www.zarla.com/images/zarla-eletrifix-1x1-2400x2400-20210609-w9vfgdymtrv7chtrd6h6.png?crop=1:1,smart&width=250&dpr=2',
+    foto: 'https://static5.depositphotos.com/1006018/433/i/450/depositphotos_4336316-stock-illustration-electrician-or-power-lineman-carrying.jpg',
     avaliacao: 4.5,
   },
   {
