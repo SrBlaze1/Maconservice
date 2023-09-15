@@ -7,8 +7,8 @@ const agendamentosFicticios = [
   {
     id: '1',
     empresa: {
-      nome: 'Empresa 1',
-      foto: 'URL_DA_FOTO_1',
+      nome: 'EletroFix',
+      foto: 'https://www.zarla.com/images/zarla-eletrifix-1x1-2400x2400-20210609-w9vfgdymtrv7chtrd6h6.png?crop=1:1,smart&width=250&dpr=2',
     },
     data: '01/09/2023',
     hora: '09:00',
@@ -16,8 +16,8 @@ const agendamentosFicticios = [
   {
     id: '2',
     empresa: {
-      nome: 'Empresa 2',
-      foto: 'URL_DA_FOTO_2',
+      nome: 'EletroGau',
+      foto: 'https://w7.pngwing.com/pngs/218/515/png-transparent-electrician-graphics-electrical-engineering-electricity-logo-electrician-cartoon-retro-electrical-wires-cable-logo.png',
     },
     data: '02/09/2023',
     hora: '14:30',
